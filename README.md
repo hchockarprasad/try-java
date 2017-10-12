@@ -13,12 +13,12 @@ The samples are all completely independent and self-contained so you can look at
  3.  Then compile and run a sample directly by name:    
 ```
      > javac oop1/[SampleName].java
-     > java oop1/[SampleName]
+     > java oop1.[SampleName]
 ```
 e.g.
 ```
      > javac oop1/StudentScanner.java
-     > java oop1/StudentScanner
+     > java oop1.StudentScanner
 ```
 Running SampleCode without compiling does'nt work.
 
